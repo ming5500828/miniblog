@@ -1,0 +1,1 @@
+const withcss = require('@zeit/next-css');
